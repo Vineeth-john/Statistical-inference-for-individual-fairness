@@ -1,4 +1,4 @@
-# Statistical inference for individual fairness
+# Statistical inference for individual fairness in ML models
 
 ### Overview 
 This project aims to explore and mitigate gender bias in the UCI Adult Dataset using various techniques from the fields of data preprocessing, feature engineering, and model evaluation. By identifying and addressing biases in the dataset, we strive to develop machine learning models that are fair, unbiased, and capable of making equitable predictions across gender groups.
